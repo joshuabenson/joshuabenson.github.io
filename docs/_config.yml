@@ -27,9 +27,10 @@ twitter_username: jekyllrb
 github_username:  joshuabenson
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.5
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 menu:
   - title: Blog
     url:   /blog/
