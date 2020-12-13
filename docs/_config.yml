@@ -33,7 +33,7 @@ plugins:
   - jekyll-include-cache
 menu:
   - title: Blog
-    url:   /blog/
+    url:   /
   - title: About
     url:   /about/
 
